@@ -4,6 +4,7 @@ Jon and Shane
 ### Morning session
 
 Ice Breaker and Lab
+
 Lecture
 
 ### Afternoon session
