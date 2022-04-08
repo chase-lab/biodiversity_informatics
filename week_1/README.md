@@ -3,6 +3,9 @@ Jon and Shane
 
 ### Morning session
 
+Ice Breaker and Lab
+Lecture
+
 ### Afternoon session
 
 In the afternoon session, we'll work through a tutorial of computer exercises together. 
