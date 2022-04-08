@@ -1,4 +1,4 @@
-## Week 1: (Friday, April 8): Measure of Biodiversity
+## Week 1: (Friday, April 8): What is Biodiversity and how do you measure it?
 Jon and Shane
 
 ### Morning session
