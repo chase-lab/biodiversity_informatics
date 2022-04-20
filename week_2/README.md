@@ -6,7 +6,7 @@ Instructors: Dr. Paola Barajas (paola.barajas@idiv.de); Dr. Emma Ladouceur (emma
 ## Morning: Introduction to Ecosystem Functioning with Dr. Emma Ladouceur 10:00- 11:00
   
   - Lecture and discussion on Ecosystem Functioning 
- - Download  Slides- will be linked
+ - Download Slides- will be linked
  
 ## Morning : Form discussion and debate groups 11:00-11:30
 Before class please read two papers- and make some notes;
@@ -24,4 +24,10 @@ Before class please read two papers- and make some notes;
 ### Afternoon session
 
 Functional Trait Diversity with Dr. Paola Barajas
+
+Lecture 1:00-2:00 pm
+
+Functional Trait Data Activity in R- details coming soon 2:00-3:00 pm
+
+We will end the day with the Biodiversity Ecosystem Function Debate.
 
