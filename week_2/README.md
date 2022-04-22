@@ -8,6 +8,8 @@ Instructors: Dr. Paola Barajas (paola.barajas@idiv.de); Dr. Emma Ladouceur (emma
   - Lecture and discussion on Ecosystem Functioning 
  - Download [Slides](https://portal.idiv.de/owncloud/index.php/s/P8Ax53yFkDJrGRJ)
  
+ - See our [Ecosystem Function Brainstorm](https://jamboard.google.com/d/1ofJjUnH2PXaH7i217-Sdnj3Bn6pm1piTgk93ljmFcHY/edit?usp=sharing)
+ 
 ## Morning : Form discussion and debate groups 11:00-11:30
 Before class please read two papers- and make some notes;
 1. [Paper 1](https://doi.org/10.1111/jvs.12399)
