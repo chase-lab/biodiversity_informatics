@@ -33,8 +33,8 @@ Lecture 1:00-2:00 pm
 - details coming soon 2:00-3:00 pm
 
 ### Afternoon Part III: Biodiversity & Ecosystem Function Team Debate
--We will end the day with the Biodiversity Ecosystem Function Debate
--Use the Team Jam Boards above as a tool!
+- We will end the day with the Biodiversity Ecosystem Function Debate
+- Use the Team Jam Boards above as a tool!
 
 ## Wrap-up
 What did you learn? What do you still want to learn? [Jot down your thoughts here](https://jamboard.google.com/d/1Vd8kaUZY2cUukV9WxD4HOHfAphPixi4MPMtLalY7_NM/edit?usp=sharing)
