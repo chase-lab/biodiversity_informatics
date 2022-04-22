@@ -25,12 +25,12 @@ Before class please read two papers- and make some notes;
 
 ## Afternoon session
 
-### Afternoon Part I: Functional Trait Diversity with Dr. Paola Barajas
+### Afternoon Part I: Functional Trait Diversity with Dr. Paola Barajas 1:00-2:00 pm
 
-Lecture 1:00-2:00 pm
+- Lecture 
 
-### Afternoon Part II: Functional Trait Data Activity in R
-- details coming soon 2:00-3:00 pm
+### Afternoon Part II: Functional Trait Data Activity in R 2:00-3:00 pm
+- Functional trait data in a multivariate space
 
 ### Afternoon Part III: Biodiversity & Ecosystem Function Team Debate
 - We will end the day with the Biodiversity Ecosystem Function Debate
