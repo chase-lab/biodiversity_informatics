@@ -37,5 +37,5 @@ Before class please read two papers- and make some notes;
 - Use the Team Jam Boards above as a tool!
 
 ## Wrap-up
-What did you learn? What do you still want to learn? [Jot down your thoughts here](https://jamboard.google.com/d/1Vd8kaUZY2cUukV9WxD4HOHfAphPixi4MPMtLalY7_NM/edit?usp=sharing)
+What did you learn? What do you still want to learn? [Jot down your anonymous thoughts here](https://jamboard.google.com/d/1Vd8kaUZY2cUukV9WxD4HOHfAphPixi4MPMtLalY7_NM/edit?usp=sharing)
 
