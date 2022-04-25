@@ -21,6 +21,19 @@ No meeting this week. Instead, you will be asked to attend several talks/session
 ### Week 4: (Friday, May 6): Taxonomic data management, global scale analyses
 Wubing and Alban
 
+### Week 5: (Friday, May 13): Data integration across scales 
+Carsten Meyer 
+
+### Week 6: (Friday, May 27): Analyzing drivers of biodiversity change (using Joint Species Distribution Models) 
+Kimberly Thompson 
+
+### Week 7: (Friday, June 03): Design of scalable spatial data analysis 
+Ruben Remelgado 
+
+### Week 8: (Friday, June 10): Land-cover change and data-quality assessment 
+Caterina Barrasso
+
+
 ## Course Expectations and Grading:
 The learning objectives of this course will be primarily achieved by course attendence and participation in excercises and activities. Attendence/participation is mandatory. Grading will be primarily through course attendence and participation in 'in class' activities and short weeekly independent projects
 
