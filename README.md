@@ -1,11 +1,19 @@
-## Introduction to Biodiversity Informatics
+# Introduction to Biodiversity Informatics
 
-## Instructor: 
+## Part 1
+### Instructor: 
 Prof. Jonathan Chase (jonathan.chase@idiv.de)
 
-## Co-Instructors:
+### Co-Instructors:
 Dr. Paola Barajas (paola.barajas@idiv.de); Dr. Shane Blowes (shane.blowes@idiv.de); Dr. Emma Ladouceur (emma.ladouceur@idiv.de); Dr. Alban Sagouis (alban.sagouis@idiv.de); Dr. Wubing Xu (wubing.xu@idiv.de)
  
+## Part 2
+### Instructor: 
+Prof. Carsten Meyer (carsten.meyer@idiv.de)
+
+### Co-Instructors:
+Dr. Caterina Barrasso (caterina.barrasso@idiv.de); Dr. Ruben Remelgado (ruben.remelgado@idiv.de); Dr. Kimberly Thompson (kimberly.thompson@idiv.de)
+  
 
 ## Course plan:
 ### Week 1: (Friday, April 8): Measure of Biodiversity
