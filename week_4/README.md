@@ -2,7 +2,7 @@
 Wubing and Alban
 Instructors: Dr. Alban Sagouis (alban.sagouis@idiv.de); Dr. Wubing Xu (wubing.xu@idiv.de)
 
-### Morning session
+## Morning session
 
 ## Afternoon session (13:00-15:30): Species distributions
 ### Afternoon part I: Introduction to species distributions
@@ -12,4 +12,4 @@ Instructors: Dr. Alban Sagouis (alban.sagouis@idiv.de); Dr. Wubing Xu (wubing.xu
 - Changes of species distributions
 - Some database of species distributions
 
-### Afternoon part II: practice to use species ranges maps in R
+### Afternoon part II: Practice to use species range maps in R
