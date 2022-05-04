@@ -1,5 +1,5 @@
 ## Week 4: (Friday, May 6): Taxonomic data management & Species distributions
-Wubing and Alban
+
 Instructors: Dr. Alban Sagouis (alban.sagouis@idiv.de); Dr. Wubing Xu (wubing.xu@idiv.de)
 
 ## Morning session
