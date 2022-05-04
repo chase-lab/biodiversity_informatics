@@ -26,7 +26,7 @@ Paola and Emma
 No meeting this week. Instead, you will be asked to attend several talks/sessions at the iDiv conference (online) on Monday and Tuesday this week, and complete some exercises.
 
 
-### Week 4: (Friday, May 6): Taxonomic data management, global scale analyses
+### Week 4: (Friday, May 6): Taxonomic data management; Species distributions
 Wubing and Alban
 
 ### Week 5: (Friday, May 13): Data integration across scales 
