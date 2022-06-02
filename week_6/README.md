@@ -1,5 +1,5 @@
-## Week 6: (Friday, May 27): Analyzing drivers of biodiversity change (using Joint Species Distribution Models)
-Kimberly Thompson
+## Week 6: (Friday, June 03): Design of scalable spatial data analysis
+Ruben Remelgado
 
 ### Morning session
 
