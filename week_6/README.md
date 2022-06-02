@@ -13,3 +13,5 @@ You will need to following material:
 - <a href="https://portal.idiv.de/nextcloud/index.php/s/Ggm9mwC9eNQrqcQ">Slides</a>
 - <a href="https://portal.idiv.de/nextcloud/index.php/s/SctfQrEbnyMkoHe">Exercice 1 data</a>
 - <a href="https://portal.idiv.de/nextcloud/index.php/s/9BX8Ai6a5TL88f3">Exercise 2 data</a>
+
+The password for the files is **bio_informatics_2022**
