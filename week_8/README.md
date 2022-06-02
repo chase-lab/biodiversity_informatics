@@ -1,5 +1,5 @@
-## Week 8: (Friday, June 10): ): Land-cover change and data-quality assessment 
-Caterina Barrasso
+## Week 8: (Friday, June 17): ): Analyzing drivers of biodiversity change (using Joint Species Distribution Models)
+Kimberly Thompson
 
 ### Morning session
 
