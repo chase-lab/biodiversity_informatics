@@ -2,5 +2,14 @@
 Ruben Remelgado
 
 ### Morning session
+- Introduction on the possibilities of modern, large-scale geo-computation
+- Practical exercies on the design of scalable research
 
 ### Afternoon session
+- Strategies to select study sites for scalable applications
+- Practical discussion on the modularization of code
+
+You will need to following material:
+- <a href="https://portal.idiv.de/nextcloud/index.php/s/Ggm9mwC9eNQrqcQ">Slides</a>
+- <a href="https://portal.idiv.de/nextcloud/index.php/s/SctfQrEbnyMkoHe">Exercice 1 data</a>
+- <a href="">Exercise 2 data</a>
