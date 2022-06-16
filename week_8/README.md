@@ -3,7 +3,7 @@ Kimberly Thompson
 
 ### Morning session
 
-#Lecture: Intro to Joint Species Distribution Models
-#R Exercise Part I: Univariate Examples with Simulated Data
+Lecture: Intro to Joint Species Distribution Models
+R Exercise Part I: Univariate Examples with Simulated Data
 
 ### Afternoon session
